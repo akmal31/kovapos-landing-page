@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     description: 'Sistem Point of Sales (POS) khusus untuk Salon Kecantikan dan Barbershop. Kelola komisi, membership, dan transaksi dengan mudah.',
     images: [
       {
-        url: 'https://storage.googleapis.com/timetraq-public/other/img/kova_preview',
+        url: 'https://storage.googleapis.com/timetraq-public/other/img/kova_preview_1',
         width: 1200,
         height: 630,
         alt: 'KovaPOS Preview',
